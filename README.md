@@ -8,6 +8,28 @@ repozitáře je tedy čeština. Češtinu lze používat i v commitech.
 Tento repozitář obsahuje větší soubory, využívá
 [Git LFS](https://git-lfs.github.com/).
 
+## Adresářová struktura zvukové sady
+
+```code
+.
+├── numbers
+│   ├── platform - čísla nástupišť (např. první, druhé)
+│   ├── railway - čísla kolejí (např. první, druhá)
+│   ├── railway_end  
+│   ├── trainNum - čísla (např. jedna, sto, pět set)
+│   └── trainNum_end
+├── parts - části slov (např. odjede, přijede)
+├── salutation - oslovení (např. vážení cestující)
+├── salutation_end 
+├── spec
+├── stations - stanice (např. Praha hlavní nádraží)
+├── time
+│   ├── hours - hodiny (např. 18 hodin)
+│   ├── minutes - minuty (např. 26 minut)
+│   └── minutes_end
+└── trainType - typ vlaku (např. rychlík, J. G. Mendel)
+```
+
 ## Licencování
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
