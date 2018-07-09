@@ -41,3 +41,9 @@ International](https://creativecommons.org/licenses/by/4.0/).
 
 Autoři:
  * Jiří Rybička ([rybicka@mendelu.cz](mailto:rybicka@mendelu.cz))
+
+## Užitečné nástroje
+
+```
+normalize-ogg -a 0.15 `find . -type f -name "*.ogg"`
+```
