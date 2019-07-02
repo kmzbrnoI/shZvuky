@@ -2,8 +2,8 @@
 
 Tento repozitář obsahuje zvuky staničního hlášení.
 
-Všechny zvuky v tomto repozitáři budou v češtině, primární jazyk tohoto
-repozitáře je tedy čeština. Češtinu lze používat i v commitech.
+Všechny zvuky v tomto repozitáři jsou v češtině, primární jazyk tohoto
+repozitáře je čeština. Češtinu lze používat i v commitech.
 
 Tento repozitář obsahuje větší soubory, využívá
 [Git LFS](https://git-lfs.github.com/).
@@ -15,7 +15,7 @@ Tento repozitář obsahuje větší soubory, využívá
 ├── numbers
 │   ├── platform - čísla nástupišť (např. první, druhé)
 │   ├── railway - čísla kolejí (např. první, druhá)
-│   ├── railway_end  
+│   ├── railway_end
 │   ├── trainNum - čísla (např. jedna, sto, pět set)
 │   └── trainNum_end
 ├── parts - části slov (např. odjede, přijede)
