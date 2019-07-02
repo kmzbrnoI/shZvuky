@@ -5,6 +5,8 @@ Tento repozitář obsahuje zvuky staničního hlášení.
 Všechny zvuky v tomto repozitáři jsou v češtině, primární jazyk tohoto
 repozitáře je čeština. Češtinu lze používat i v commitech.
 
+Více informací na [wiki](wiki).
+
 Tento repozitář obsahuje větší soubory, využívá
 [Git LFS](https://git-lfs.github.com/).
 
